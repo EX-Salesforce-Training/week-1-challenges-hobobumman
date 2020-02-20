@@ -33,3 +33,5 @@
   * public void GetAccount(){}
 * SetAccount should initialize the account, and assign values to name, annualrevenue, and description.
 * GetAccount should print the account to the debug log.
+
+//These tasks where completed by Sergio and Yinghao. 
